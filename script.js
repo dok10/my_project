@@ -11,6 +11,7 @@ function func() {
     console.log(a);
 }
 
+
 func();
 console.log('hello');
 
